@@ -168,6 +168,11 @@ This guide presents trustworthy, open-source, and privacy-conscious alternatives
 
 ---
 
+## 📡 File Sharing
+* [LocalSend](https://localsend.org) – Secure, open-source file sharing over local networks with no internet required
+
+---
+
 ## 🔐 2FA / Authenticator Apps
 
 **Replace Google Authenticator with:**
