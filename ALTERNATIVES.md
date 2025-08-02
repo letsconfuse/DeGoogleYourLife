@@ -55,6 +55,14 @@ This guide presents trustworthy, open-source, and privacy-conscious alternatives
 * [Aurora Store](https://auroraoss.com)
 * [Neo Store](https://github.com/NeoApplications/Neo-Store)
 
+---
+
+## ⌨️ Keyboard Input
+
+**Replace Gboard with:**
+
+* [FUTO Keyboard](https://futo.org/app/keyboard/) – Privacy-first Android keyboard with no network access
+
 
 ---
 ## 🌐 Web Browsers
